@@ -67,5 +67,3 @@ forPre[WhitePaperVal2](http://www.whitePaper222.com/)
 
 ## SalesPlayCategory
 SD-WAN
-
-
