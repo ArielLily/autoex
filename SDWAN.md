@@ -65,5 +65,5 @@ forPre[WhitePaperVal2](http://www.whitePaper222.com/)
 [Instant, custom splash pages for WiFi access](https://testing-developer.cisco.com/ecosystem/meraki/apps/5a6d16371df81231b1403a81/)
 
 
-## SalesPlayCategory
+## Sales Play Category
 SD-WAN
