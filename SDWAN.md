@@ -1,10 +1,18 @@
-# Secure SD-WAN
+# Lily Test Secure SD-WAN
 ==============
 
+
 ## Tag
+
 [stage] - Walk, Run
+
 [LifeCycle] - Day 0, Day 1
+
 [Domain] - Campus/Branch
+
+[Scenario]
+
+[Product] 
 
 The Cisco SD-WAN software provides a REST API, which is a programmatic interface for controlling, configuring, and monitoring the Cisco SD-WAN devices in an overlay network. You access the REST API through the vManage web server. This sample code uses Go to interact with the SD-WAN REST API. This should be used with [SD-WAN Release 16.9.x and Cisco SD-WAN Release 18.3.x](https://www.cisco.com/c/en/us/td/docs/routers/sdwan/release/notes/xe-16-9-18-3/sd-wan-rel-notes-16-9-18-3.html)
 
@@ -56,3 +64,7 @@ forPre[WhitePaperVal2](http://www.whitePaper222.com/)
 [Physical Density Controls](https://testing-developer.cisco.com/ecosystem/meraki/apps/5ed8fa69a0774c0a8cf97e9b/)
 
 [Instant, custom splash pages for WiFi access](https://testing-developer.cisco.com/ecosystem/meraki/apps/5a6d16371df81231b1403a81/)
+
+
+## Sales Play Category
+SD-WAN
